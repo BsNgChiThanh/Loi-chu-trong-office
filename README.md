@@ -21,3 +21,9 @@
 4. Cài đặt lại office sau khi đã download xong.
 5. Chạy MASS để kích hoạt. https://github.com/BsNgChiThanh/MAS-TOOL
 6. Kích khoạt xong sử dụng bình thường. Nếu có sử dụng Onedrive thì đăng nhập tài khoản vào bộ Office là xong.
+
+#### DEMO ####
+  - Tôi cài đặt Office 2021, kích hoạt xoang, đăng nhập Office 365 E5.
+  - ![image](https://github.com/BsNgChiThanh/Loi-chu-trong-office/assets/82578024/63cba917-e62d-454f-9cc9-b27cae2c67b2)
+  - ![image](https://github.com/BsNgChiThanh/Loi-chu-trong-office/assets/82578024/05eefdc8-d809-431a-94d5-572fb47665c6)
+  - Giao diện lai tạo giữ Office 2021 và Office 365.
