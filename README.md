@@ -2,7 +2,8 @@
   - Chữ dính liền.
   - Chữ tách đôi.
   - Chữ nhãy, nhiều kiều kích cữ, nhiều font khác nhau.
-- Lý do: thường là file trước đó dùng bất đồng office giữ office quá cao với office quá thấp và ngược lại.
+  - Ví dụ: C ó m ột l ỗi r ất h ay g ặp t rong q uá t rình s ử d ụng b ộ c ông c ụ s oạn th ảo v ăn b ản Office đ ó ch ính l à ch ữ b ị c ách q uãng, h ay n ói c ách k hác l à b ị nh ảy d ấu c ách kh i b ạn th ực h iện copy h ay download đ ược m ột file Word, PowerPoint ở đ âu đ ó v ề m áy t ính đ ể ch ỉnh s ửa. Hoặcchữdínhliềnnhau. Hoặc chữ nhãy nhiều font chữ, nhiều kích cỡ…
+  - Lý do: thường là file trước đó dùng bất đồng office giữ office quá cao với office quá thấp và ngược lại.
 
 ##   CÁCH KHẮC PHỤC ##
 1. Để khăc phục triệt để bạn phải gở sạch bộ office hiện có của mình, xem hướng dẫn: https://github.com/BsNgChiThanh/Go-triet-de-Office.
