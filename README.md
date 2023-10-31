@@ -26,4 +26,4 @@
   - Tôi cài đặt Office 2021, kích hoạt xoang, đăng nhập Office 365 E5.
   - ![image](https://github.com/BsNgChiThanh/Loi-chu-trong-office/assets/82578024/63cba917-e62d-454f-9cc9-b27cae2c67b2)
   - ![image](https://github.com/BsNgChiThanh/Loi-chu-trong-office/assets/82578024/05eefdc8-d809-431a-94d5-572fb47665c6)
-  - Giao diện lai tạo giữ Office 2021 và Office 365.
+  - **Giao diện lai tạo giữ Office 2021 và Office 365.**
