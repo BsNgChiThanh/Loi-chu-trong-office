@@ -7,6 +7,17 @@
   - Lý do: thường là file trước đó dùng bất đồng office giữ office quá cao với office quá thấp và ngược lại.
 
 ##   CÁCH KHẮC PHỤC ##
+###   CÁCH 1: ###
+
+- Bước 1: Trên cửa sổ Word, tìm và click chọn File => Options. Lúc này trên màn hình sẽ hiển thị hộp thoại Word Options.
+- ![image](https://github.com/BsNgChiThanh/Loi-chu-trong-office/assets/82578024/b3a9a68d-92ea-4841-bbf6-e3ce7d05b531)
+- Bước 2: Tiếp theo click chọn Advanced ở khung bên trái như hình dưới đây. Tiếp theo tìm và bỏ tích tùy chọn Use smart cut and paste rồi click chọn OK để sửa lỗi nhảy chữ trong Word.
+- ![image](https://github.com/BsNgChiThanh/Loi-chu-trong-office/assets/82578024/38930868-5558-4156-8ec2-c5c5d4698916)
+- Ngoài cách trên, bạn có thể áp dụng cách khác để sửa lỗi nhảy chữ trong Word bằng cách click chọn nút Settings nằm kế bên tùy chọn Use smart cut and paste. Trên cửa sổ hiển thị trên màn hình, tìm và bỏ tích 2 ô nằm kế trên cùng là xong.
+- ![image](https://github.com/BsNgChiThanh/Loi-chu-trong-office/assets/82578024/a300d545-fede-461d-b7ca-2f6bdc466f95)
+
+###   CÁCH 2: ###
+
 1. Để khăc phục triệt để bạn phải gở sạch bộ office hiện có của mình, xem hướng dẫn: https://github.com/BsNgChiThanh/Go-triet-de-Office.
 2. Khởi động máy lại.
 3. Download bộ Office khác: (Nếu bạn có sử dụng Onedrive, khuyên dùng lại Office 2021)
